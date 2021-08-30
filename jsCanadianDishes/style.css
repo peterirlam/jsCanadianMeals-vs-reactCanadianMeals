@@ -1,0 +1,39 @@
+#title {
+  font-size: 2.1rem;
+}
+#navbar {
+  background-color: rgb(32, 32, 32);
+  padding-top: 1.5rem !important;
+}
+li {
+  color: white;
+  list-style: none;
+  display: inline;
+  margin-left: 2.1rem;
+}
+#nav-elements {
+  text-align: center;
+  padding-bottom: 1.3rem; 
+}
+.col-md-3 {
+  margin: 2.1rem !important;
+}
+img {
+  padding-left: 1.3rem !important;
+  padding-right: 1.3rem !important;
+  padding-bottom: 1.25rem !important;
+}
+p {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+#footer {
+  background-color: rgb(32, 1, 1);
+  color: rgb(161, 161, 161);
+  text-align: center;
+  padding: 1.25rem;
+}
+.ftext {
+  font-size: 0.8em;
+  letter-spacing: 0.1rem;
+}
