@@ -1,2 +1,2 @@
-# jsCanadianMeals-vs-reactCanadianMeals
-I've always loved Canadian cuisine. Here's a demo blog site of my favorites. Yum, eh!
+# jsFoodBlog-vs-reactFoodBlog
+Demo blogs (no real functionality) that make API calls to themeaddb.com
