@@ -1,11 +1,14 @@
 import React from 'react'
 
-const Footer = () => {
+const Navbar = () => {
   return (
     <div style={{backgroundColor: '#1D8D84'}}>
-      <p style={{color: 'white', paddingBottom: 20}}>Website designed by IrlTech Ltd, part of the IrlGen Group Plc</p>
+      <h1 style={{color: 'white'}}>React Seafood Dishes</h1>
+        <a style={{margin: 20, color: 'white'}}>Home</a>
+        <a style={{margin: 20, color: 'white'}}>Order</a>
+        <a style={{margin: 20, color: 'white'}}>Contact Us</a>
     </div>
   )
 }
 
-export default Footer
+export default Navbar
